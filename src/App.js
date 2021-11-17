@@ -6,7 +6,7 @@ import Header from "./components/header/header.component";
 import Footer from "./components/footer/footer.compononet";
 import HomePage from "./pages/homepage/homepage.component";
 import AddArticle from "../src/components/add-article/addArticle.compononet";
-import Test from "./components/test";
+import Test from "./components/text";
 import "./App.css";
 function App() {
     return (

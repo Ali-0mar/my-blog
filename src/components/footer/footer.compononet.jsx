@@ -10,7 +10,7 @@ const Footer = () => {
     return (
         <Box sx={{ flexGrow: 1 }}>
             <AppBar
-                position="fixed"
+                position="absolute"
                 color="primary"
                 sx={{ top: "auto", bottom: 0 }}>
                 <Toolbar>
